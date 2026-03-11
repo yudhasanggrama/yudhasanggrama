@@ -5,16 +5,16 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/yudhasanggrama">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Vue+Enthusiast+%E2%9A%A1;Laravel+%7C+PHP+Backend+Expert+%F0%9F%94%A5;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%E2%9A%A1;Laravel+%7C+PHP+Backend+Expert+%F0%9F%94%A5;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yudhasanggrama)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yudha-personal-web.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yudhasanggrama@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yudhasanggrama)
+[![X](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/yudhasanggrama)
 
 <br/>
 
