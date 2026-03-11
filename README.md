@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/yudhasanggrama">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%E2%9A%A1;Laravel+%7C+PHP+Backend+Expert+%F0%9F%94%A5;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%E2%9A%A1;Laravel+%7C+PHP+Backend+%F0%9F%94%A5;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
