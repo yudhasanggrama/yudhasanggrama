@@ -40,15 +40,6 @@ const developer = {
     "Contributing to open source",
     "Exploring modern frontend architectures",
   ],
-
-  techStack: {
-    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend:   ["Laravel", "PHP", "Node.js", "Express.js", "REST API"],
-    database:  ["MySQL", "PostgreSQL", "Supabase", "Redis"],
-    devOps:    ["Docker", "Git", "CI/CD"],
-  },
-
-  funFact: "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
