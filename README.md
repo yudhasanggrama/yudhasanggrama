@@ -33,7 +33,6 @@ const developer = {
   name:       "Yudha Sanggrama Wijaya",
   role:       "Full Stack Developer",
   location:   "Indonesia 🇮🇩",
-  experience: "X+ years",
 
   currentFocus: [
     "Building scalable web applications",
