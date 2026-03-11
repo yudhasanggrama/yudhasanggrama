@@ -103,9 +103,6 @@ const developer = {
 
 ---
 
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
