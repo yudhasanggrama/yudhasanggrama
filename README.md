@@ -43,8 +43,8 @@ const developer = {
 
   techStack: {
     frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend:   ["Laravel", "PHP", "Node.js", "REST API"],
-    database:  ["MySQL", "PostgreSQL", "Redis"],
+    backend:   ["Laravel", "PHP", "Node.js", "Express.js", "REST API"],
+    database:  ["MySQL", "PostgreSQL", "Supabase", "Redis"],
     devOps:    ["Docker", "Git", "CI/CD"],
   },
 
@@ -69,10 +69,12 @@ const developer = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
