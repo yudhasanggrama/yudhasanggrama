@@ -36,9 +36,15 @@ const developer = {
 
   currentFocus: [
     "Building scalable web applications",
-    "Contributing to open source",
     "Exploring modern frontend architectures",
   ],
+
+  techStack: {
+    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend:   ["Laravel", "PHP", "Node.js", "Express.js", "REST API"],
+    database:  ["MySQL", "PostgreSQL", "Supabase", "Redis"],
+    devOps:    ["Docker", "Git", "CI/CD"],
+  },
 };
 ```
 
@@ -93,6 +99,16 @@ const developer = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yudhasanggrama&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -107,8 +123,26 @@ const developer = {
 
 <div align="center">
 
+| 📦 Project | 📝 Description | 🛠️ Tech Stack |
+|---|---|---|
+| [receipt-manager](https://github.com/yudhasanggrama/receipt-manager) | Aplikasi manajemen struk dan keuangan | Laravel, React, MySQL |
+| [social-app](https://github.com/yudhasanggrama/social-app) | Platform media sosial fullstack | Next.js, Node.js, PostgreSQL |
+
+</div>
+
+<div align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yudhasanggrama&repo=receipt-manager&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)](https://github.com/yudhasanggrama/receipt-manager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yudhasanggrama&repo=social-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)](https://github.com/yudhasanggrama/social-app)
+
+</div>
+
+<div align="center">
+
+| 📦 Project | 📝 Description |
+|---|---|
+| [receipt-manager](https://github.com/yudhasanggrama/receipt-manager) | An application for managing and tracking receipts using OCR and AI models, allowing users to store all receipts and automatically categorize them for monthly expense tracking. |
+| [social-app](https://github.com/yudhasanggrama/social-app) | A social web platform that allows users to connect, share, and interact in real time. Features include profile management, follow and like systems, image-based posts, and live updates powered by WebSocket. |
 
 </div>
 
