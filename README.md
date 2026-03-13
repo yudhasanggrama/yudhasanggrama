@@ -130,10 +130,10 @@ const developer = {
 
 <div align="center">
 
-| 📦 Project | 📝 Description | 🛠️ Tech Stack |
+| 📦 Project | 📝 Description |
 |---|---|
-| [receipt-manager](https://github.com/yudhasanggrama/receipt-manager) | An application for managing and tracking receipts using OCR and AI models, allowing users to store all receipts and automatically categorize them for monthly expense tracking. | Aplikasi manajemen struk dan keuangan | Laravel, React, MySQL
-| [social-app](https://github.com/yudhasanggrama/social-app) | A social web platform that allows users to connect, share, and interact in real time. Features include profile management, follow and like systems, image-based posts, and live updates powered by WebSocket. |  Platform media sosial fullstack | Next.js, Node.js, PostgreSQL |
+| [receipt-manager](https://github.com/yudhasanggrama/receipt-manager) | An application for managing and tracking receipts using OCR and AI models, allowing users to store all receipts and automatically categorize them for monthly expense tracking. |
+| [social-app](https://github.com/yudhasanggrama/social-app) | A social web platform that allows users to connect, share, and interact in real time. Features include profile management, follow and like systems, image-based posts, and live updates powered by WebSocket. |
 
 </div>
 
