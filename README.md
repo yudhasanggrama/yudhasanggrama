@@ -123,15 +123,6 @@ const developer = {
 
 <div align="center">
 
-| 📦 Project | 📝 Description | 🛠️ Tech Stack |
-|---|---|---|
-| [receipt-manager](https://github.com/yudhasanggrama/receipt-manager) | Aplikasi manajemen struk dan keuangan | Laravel, React, MySQL |
-| [social-app](https://github.com/yudhasanggrama/social-app) | Platform media sosial fullstack | Next.js, Node.js, PostgreSQL |
-
-</div>
-
-<div align="center">
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yudhasanggrama&repo=receipt-manager&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)](https://github.com/yudhasanggrama/receipt-manager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yudhasanggrama&repo=social-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)](https://github.com/yudhasanggrama/social-app)
 
@@ -139,10 +130,10 @@ const developer = {
 
 <div align="center">
 
-| 📦 Project | 📝 Description |
+| 📦 Project | 📝 Description | 🛠️ Tech Stack |
 |---|---|
-| [receipt-manager](https://github.com/yudhasanggrama/receipt-manager) | An application for managing and tracking receipts using OCR and AI models, allowing users to store all receipts and automatically categorize them for monthly expense tracking. |
-| [social-app](https://github.com/yudhasanggrama/social-app) | A social web platform that allows users to connect, share, and interact in real time. Features include profile management, follow and like systems, image-based posts, and live updates powered by WebSocket. |
+| [receipt-manager](https://github.com/yudhasanggrama/receipt-manager) | An application for managing and tracking receipts using OCR and AI models, allowing users to store all receipts and automatically categorize them for monthly expense tracking. | Aplikasi manajemen struk dan keuangan | Laravel, React, MySQL
+| [social-app](https://github.com/yudhasanggrama/social-app) | A social web platform that allows users to connect, share, and interact in real time. Features include profile management, follow and like systems, image-based posts, and live updates powered by WebSocket. |  Platform media sosial fullstack | Next.js, Node.js, PostgreSQL |
 
 </div>
 
